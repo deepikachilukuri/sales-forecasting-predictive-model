@@ -1,0 +1,25 @@
+Order Date,Sales,Category,Region
+2023-01-01,1200,Technology,West
+2023-02-01,1500,Furniture,East
+2023-03-01,1800,Office Supplies,Central
+2023-04-01,2100,Technology,South
+2023-05-01,2400,Furniture,West
+2023-06-01,2700,Office Supplies,East
+2023-07-01,3000,Technology,Central
+2023-08-01,3300,Furniture,South
+2023-09-01,3600,Office Supplies,West
+2023-10-01,3900,Technology,East
+2023-11-01,4200,Furniture,Central
+2023-12-01,4500,Office Supplies,South
+2024-01-01,4800,Technology,West
+2024-02-01,5100,Furniture,East
+2024-03-01,5400,Office Supplies,Central
+2024-04-01,5700,Technology,South
+2024-05-01,6000,Furniture,West
+2024-06-01,6300,Office Supplies,East
+2024-07-01,6600,Technology,Central
+2024-08-01,6900,Furniture,South
+2024-09-01,7200,Office Supplies,West
+2024-10-01,7500,Technology,East
+2024-11-01,7800,Furniture,Central
+2024-12-01,8100,Office Supplies,South
